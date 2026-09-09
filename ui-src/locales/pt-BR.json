@@ -357,7 +357,7 @@
     "pickColour": "Escolha uma cor",
     "startClipping": "Comece a clipar, e aí deixe o Vice fazer o trabalho",
     "playlistsTitle": "As playlists organizam o rolo de vídeos",
-    "colourBody": "O Vice pega suas cores a partir de um desses. A aplicação inteira muda com a sua escolha, então escolha o que o mais agradar os olhos, e mude quando quiser nas Cofigurações.",
+    "colourBody": "O Vice pega suas cores a partir de um desses. A aplicação inteira muda com a sua escolha, então escolha o que o mais agradar os olhos, e mude quando quiser nas Configurações.",
     "quickStartBody": "O Vice mantém o buffer rodando em segundo plano e abre esta janela somente quando necessário.",
     "playlistsBody": "Todo clipe pode pertencer a qualquer quantidade de playlists, e elas os mantêm em ordem.",
     "saveLast": "Salvar os últimos {duration}s",
